@@ -2,122 +2,57 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# profile
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+## 自己紹介
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>名前</dt>
+<dd>細川 咲希 (hosokawa saki)</dd>
+<dt>生年月日</dt>
+<dd>1991年 12月22日</dd>
+<dt>好きな食べ物</dt>
+<dd>ぶどう, 甘いもの</dd>
+<dt>ご挨拶</dt>
+<dd>サーバーサイドメインのwebエンジニアです</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### 略歴
 
-```
-The final element.
-```
+<dl>
+<dt>明治大学 商学部商学科 卒業(2014年)</dt>
+<dt>IT企業 勤務</dt>
+</dl>
+
+## 業務経験
+
+- 要件定義～結合テストまでの経験がある
+- 運用保守でのトラブル調査対応の経験がある
+- 中～小規模のチームでの開発経験がある
+- 日本語ではあるが、オフショアチームの開発・運用保守をサポートした経験がある
+
+### スキル一覧
+
+<dl>
+<dt>☆ = 業務での経験があり、知識がある</dt>
+<dt>▲ = 経験浅目だが、業務での経験がある</dt>
+</dl>
+
+- 言語
+  - PHP ☆
+  - Java ☆
+  - C# ☆
+- DB
+  - MySQL ☆
+  - DB2 ▲
+  - SQLServer ☆
+- AWS
+  - S3 ☆
+  - DynamoDB ☆
+  - OpsWorks ▲
+- その他ツールなど
+  - Git ☆
+  - Vagrant ☆
+  - VertualBox ☆
+  - jQuery ▲
+  - Node.js ▲
