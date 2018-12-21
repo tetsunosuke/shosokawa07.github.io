@@ -53,6 +53,6 @@ layout: default
 - その他ツールなど
   - Git ☆
   - Vagrant ☆
-  - VertualBox ☆
+  - VirtualBox ☆
   - jQuery ▲
   - Node.js ▲
